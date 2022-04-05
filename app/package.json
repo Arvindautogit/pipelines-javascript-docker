@@ -1,7 +1,7 @@
 {
   "name": "my_app",
   "version": "1.0.0",
-  "description": "Sample used for container templates",
+  "description": "Sample package for container templates",
   "author": "Arvind Shrivastava",
   "main": "server.js",
   "scripts": {
